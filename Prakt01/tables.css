@@ -1,0 +1,143 @@
+table.table{
+    border-collapse: collapse;
+    border-spacing: 0 0px;
+
+}
+table.tableCenter{
+    text-align: center;
+    border: 1px solid black;
+    border-spacing: 0 0px;
+    border-collapse: collapse;
+}
+th.h1{
+    text-align: center;
+    background: aquamarine;
+    padding: 3px;
+    border: 1px solid black;
+}
+th.h2{
+    background: gold;
+    padding: 3px;
+    border: 1px solid black;
+}
+th.green{
+    background: green;
+    text-align: right;
+    padding: 3px;
+    border: 1px solid black;
+}
+td.t1{
+    background: bisque;
+    padding: 3px;
+    border: 1px solid black;
+}
+td.t2{
+    background: burlywood;
+    padding: 3px;
+    border: 1px solid black;
+}
+td.t3{
+    background: darkgoldenrod;
+    padding: 3px;
+    border: 1px solid black;
+}
+td.t4{
+    background: brown;
+    padding: 3px;
+    border: 1px solid black;
+}
+td.t5{
+    background: coral;
+    padding: 3px;
+    border: 1px solid black;
+}
+td.boldtext{
+    font-weight: bold;
+}
+td.blue{
+    background: cornflowerblue;
+    padding: 3px;
+    border: 1px solid black;
+}
+td.gray{
+    text-align: left;
+    background: lightgray;
+    padding: 3px;
+    border: 1px solid black;
+}
+table.table5{
+    text-align: left;
+    font-family: "Comic Sans MS";
+    padding: 3px;
+    border: 2px solid brown;
+    weight: 80px;
+    height: 60px;
+    border-spacing: 0 0px;
+    border-collapse: collapse;
+}
+td.table5Blue{
+    background: midnightblue;
+    padding: 3px;
+    border: 2px solid brown;
+}
+td.table5Light{
+    background: peachpuff;
+    padding: 3px;
+    border: 2px solid brown;
+}
+table.table6{
+    border-spacing: 0 0px;
+    border-collapse: collapse;
+    weight: 80px;
+    height: 60px;
+    padding: 3px;
+    border: 2px solid darkseagreen;
+    text-align: left;
+    font-family: "Comic Sans MS";
+}
+td.table6Dark{
+    padding: 3px;
+    border: 2px solid darkseagreen;
+    color: goldenrod;
+    background: darkgreen;
+}
+td.table6Yellow {
+    background: goldenrod;
+    text-align: center;
+    padding: 3px;
+    border: 2px solid darkseagreen;
+}
+td.table6Light{
+    padding: 3px;
+    border: 2px solid darkseagreen;
+    background: darkkhaki;
+    vertical-align: top;
+}
+table.table7{
+    border-spacing: 0 0px;
+    border-collapse: collapse;
+    padding: 3px;
+    border: 2px solid brown;
+}
+td.table7Dark{
+    padding: 3px;
+    border: 2px solid brown;
+    background: indigo;
+    color: peachpuff;
+}
+td.table7Medium{
+    padding: 3px;
+    border: 2px solid brown;
+    background: darkorchid;
+}
+td.table7Light{
+    padding: 3px;
+    border: 2px solid brown;
+    background: violet;
+}
+td.table7Lighter{
+    padding: 3px;
+    border: 2px solid brown;
+    background: peachpuff;
+    vertical-align: top;
+}
