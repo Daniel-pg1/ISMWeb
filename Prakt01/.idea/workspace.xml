@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4645db0b-b39e-48eb-9b16-5a3e2b06a98b" name="Default Changelist" comment="" />
+    <list default="true" id="4645db0b-b39e-48eb-9b16-5a3e2b06a98b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1TvrkRDbTuu4FYfXJisH14HlYTT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -45,11 +51,28 @@
       <option name="presentableId" value="Default" />
       <updated>1574351552807</updated>
       <workItem from="1574351554118" duration="5161000" />
-      <workItem from="1574439963848" duration="11428000" />
+      <workItem from="1574439963848" duration="11707000" />
+      <workItem from="1574889622222" duration="615000" />
+      <workItem from="1574890641504" duration="42000" />
+      <workItem from="1574948701611" duration="802000" />
+      <workItem from="1575387811521" duration="674000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
