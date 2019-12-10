@@ -80,8 +80,14 @@ input[type="submit"] {
     color: #ffffff;
     border: none;
     background-color: #0d78be;
-
+transition: background-color .1s linear;
 }
+input[type="button"]:hover {
+    background-color: white;
+    color: #0d78be;
+    border: 1px solid #0d78be;
+}
+
 .gray__block{
     height: 290px;
     width: 20%;
@@ -140,6 +146,11 @@ input.Load_more{
     height:40px;
     text-align: center;
     margin-bottom: 15px;
+transition: background-color .1s linear;
+}
+input.Load_more:hover{
+    background-color: #0d78be;
+    color: white;
 }
 .bottom{
     height: 8px;
@@ -184,12 +195,11 @@ section.top{
     display: inline-block;
 }
 
-.pegasi1{
-border: 1px solid lightgray;
+.pegasi1 {
+    border: 1px solid lightgray;
     padding: 20px;
-margin-bottom: 15px;
+    margin-bottom: 15px;
     height: 800px;
-
 }
 .pegasi_top{
     font-size: 18px;
@@ -203,7 +213,7 @@ margin-bottom: 15px;
     color: gray;
     line-height: 500px;
     font-stretch: ultra-condensed;
-    font-size: 50px;
+    font-size: 60px;
 }
 .pegasi_black{
     font-size: 27px;
